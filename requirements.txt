@@ -1,2 +1,2 @@
 numpy==1.16.5
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
